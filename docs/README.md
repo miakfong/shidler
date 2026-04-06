@@ -1,71 +1,14 @@
-# Documentation & Resources
+# About Me
+On the verge of launching my engineering career, I'm a final-year Civil Engineering student (BS) with a minor in Business, bringing hands-on experience from my civil engineering design internship — where I've assisted with updating stormwater drainage systems. My Business minor gives me a practical edge in preparing bid documents that become part of a project's contract documents, bridging the gap between technical design and project delivery.
 
-This directory contains institutional documentation, reusable templates, brand guidelines, and decision memos for the Shidler College of Business repository.
+That drive to connect disciplines extends beyond the classroom — I'm passionate about sustainability and eager to pursue LEED certification to deliver environmentally responsible designs. The same dedication I bring to my professional goals shows up in my personal ones too, whether I'm crocheting or woodburning handmade gifts for the people I care about.
 
-## Contents
-
-### [`decisions/`](./decisions/)
-Strategic and administrative decision memos being reviewed, discussed, and refined for organizational direction. These memos inform the development of plans, specifications, and course materials.
-
-**Examples:**
-- Repository hierarchy and structure documentation
-- Pedagogical approach decisions
-- Course redesign initiatives
-
-**Purpose:** Capture reasoning behind organizational and instructional decisions to maintain institutional memory and support future planning.
+That pursuit of excellence is something I take seriously across every area of my life, and it's reflected in my membership in Chi Epsilon, the civil engineering honors society, which recognizes outstanding scholarship and character in the field. As I actively seek roles in civil engineering design and consulting, my immediate goals are to earn my FE license, achieve LEED certification, and step confidently into my full-time engineering career.
 
 ---
 
-### [`templates/`](./templates/)
-Reusable templates and templates for courses, projects, and professional materials.
-
-**Contents:**
-- **Assignment & Project Templates** – Memo, specification, and case brief templates used across courses
-- **bio-and-resume/** – Professional portfolio templates (bio and resume formats)
-- **Example Prompts & Specs** – Completed examples for reference (e.g., interest rate parity analysis)
-
-**Usage:** Link to these templates in course materials and project assignments to maintain consistency across the repository.
+🎯 **Target Roles:** Civil Engineer | Civil Designer
+💡 **Areas of Interest:** Design | Consulting
+📌 **Certifications in Progress:** FE License | LEED Certification
 
 ---
-
-### [`_branding/`](./_branding/)
-University of Hawaiʻi at Mānoa and Shidler College of Business brand guidelines, design tokens, and visual standards.
-
-**Contents:**
-- Brand colors, typography, and design system specifications
-- HTML design system reference guide
-- Design token configuration (`design.json`)
-
-**Usage:** Apply these standards to all course materials, presentations, and institutional documents.
-
-**Reference:** See `.claude/skills/brand-guidelines/SKILL.md` for detailed implementation guidance.
-
----
-
-### Style Guides & Guidelines
-
-#### [`ai-usage-guidelines.md`](./ai-usage-guidelines.md)
-Guidelines for integrating AI tools (particularly Claude) into coursework and course design.
-
-#### [`writing-style-guide.md`](./writing-style-guide.md)
-Institutional writing standards for course materials and communications.
-
-#### [`reproducibility-playbook.md`](./reproducibility-playbook.md)
-Guidelines for ensuring reproducibility in course materials and student projects.
-
----
-
-## Quick Navigation
-
-| Resource | Path |
-|----------|------|
-| Decision Memos | `decisions/` |
-| Assignment Templates | `templates/` |
-| Professional Templates | `templates/bio-and-resume/` |
-| Brand Guidelines | `_branding/` |
-| Design System | `_branding/design.json` |
-| UH Brand Guide | `.claude/skills/brand-guidelines/SKILL.md` |
-
----
-
-**Last Updated:** February 18, 2026
