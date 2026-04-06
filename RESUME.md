@@ -1,5 +1,5 @@
 # MIA K.S. FONG
-**Email:** miafong@hawaii.edu
+**Email:** miafong@hawaii.edu • 
 **LinkedIn:** [linkedin.com/in/miakfong](https://linkedin.com/in/miakfong) • **GitHub:** [@miakfong](https://github.com/miakfong)
 
 ---
