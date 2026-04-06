@@ -36,7 +36,7 @@
 - Took on additional duties to interview, hire, and train fellow cashiers for the store.
 - Standardized the training process to increase consistency of sales and employee dependability, as well as increased review during the interview and hiring process to improve the quality of employees selected.
 
-**Hawaiʻi Space Grant Consortium**, *Trainee* - Honolulu, HI
+**Hawaiʻi Space Grant Consortium**, *Trainee* - Honolulu, HI - January 2018-May 2020
 - Served as Social Media Officer, Team Lead, and Co-Team Lead during various projects.
 - Created Gantt charts to improve quality of deliverables at deadlines, improved inter-team communication to increase clarity and efficiency, as well as identified and mitigated hazards to both personnel and the payload.
 
@@ -46,7 +46,7 @@
 - Was invited to join and completed the pledge process to become a member of Chi Epsilon in Fall 2024.
  - Met the academic requirements to be eligible and demonstrated the four pillars of scholarship, character, practicality, and sociability throughout the pledge process.
 
-**NASA Student Launch Project**, *Rookie of the Year Award* - Huntsville, AL - April 2019
+**NASA Student Launch Project**, *Rookie of the Year Award* - Huntsville, AL - August 2018-May 2019
 - Competed in the NASA Student Launch Project as Co-Team Lead of Honolulu Community College's Payload Team in collaboration with the Rocketry Team from Windward Community College to place 9th overall and win the Rookie of the Year Award.
 - Co-Lead a joint team of 13 members to produce engineering design reports including a proposal, preliminary design review, critical design review, and a flight readiness review over the course of one academic year.
 
