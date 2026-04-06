@@ -8,7 +8,9 @@ That pursuit of excellence is something I take seriously across every area of my
 ---
 
 🎯 **Target Roles:** Civil Engineer | Civil Designer
+
 💡 **Areas of Interest:** Design | Consulting
+
 📌 **Certifications in Progress:** FE License | LEED Certification
 
 ---
