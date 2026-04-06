@@ -1,78 +1,55 @@
-# ADAM W. STAUFFER
-**adamstau@hawaii.edu**
+# MIA K.S. FONG
+**Email:** miafong@hawaii.edu
+**LinkedIn:** [linkedin.com/in/miakfong](https://linkedin.com/in/miakfong) • **GitHub:** [@miakfong](https://github.com/miakfong)
 
-**LinkedIn:** [linkedin.com/in/adamwstauffer](https://linkedin.com/in/adamwstauffer) • **GitHub:** [@adamwstauffer](https://github.com/adamwstauffer)
+---
 
 ## EDUCATION
-**The Wharton School, University of Pennsylvania**, Philadelphia, PA
-- Master of Business Administration • Major: Finance
+**University of Hawaiʻi at Mānoa** - Honolulu, HI
+- College of Engineering: BS in Civil Engineering
+- Expected Graduation: May 2026
 
-**Trinity College**, Hartford, CT
-- Bachelor of Arts • Major: Biology
+**Honolulu Community College** - Honolulu, HI
+- AS in Engineering - May 2020
 
-## ACADEMIC EXPERIENCE
-
-**Shidler College of Business, University of Hawai'i at Mānoa**
-- Faculty Lecturer, Finance & Economics, Honolulu, HI
-  - Teach graduate and undergraduate courses in Micro- & Macroeconomics for Managers, Economic & Financial Environment of Global Business, Corporate Finance, and International Business Finance.
-
-**Windward Community College, University of Hawai'i at Mānoa**
-- Lecturer, Sustainable Agriculture Entrepreneurship, Kāneʻohe, HI
-  - Develop and teach a curriculum in sustainable agribusiness fundamentals, emphasizing both ecological stewardship and economic viability.
-  - Guide student entrepreneurs through full business plan development, including budgets, financial statements, funding strategies, and investor presentations.
-
-**British Virgin Islands Financial Services Institute**
-- Instructor & Tutor, Tortola, BVI
-  - Taught the Investments Module for professionals preparing for the Institute of Chartered Secretaries and Administrators (ICSA) exam, covering savings and investment, capital markets, and regulatory environments.
+---
 
 ## PROFESSIONAL EXPERIENCE
+**Gray, Hong, Nojima & Associates**, *Civil Engineering Intern* - Honolulu, HI - April 2025-Present
+- Assisted senior engineers with drawings and plans for both public and private projects.
+- Performed site visits and inspections with specialty subcontractors, senior engineers, and clients.
+- Assisted with construction plan sheet setup, quantity takeoffs, addressing comments from agencies, and ADA compliance checks.
 
-**Springline Capital Ltd.**
-- Founder & Chief Investment Officer, Tortola, BVI
-  - Managed five global macro portfolios for high-net-worth individuals and companies, utilizing ETFs, bonds, and risk-balanced strategies related to growth and inflation.
-  - Hosted annual Retirement Planning seminars for client employees, including presentations on investment fundamentals and retirement planning tools.
+**Student Housing Services at the University of Hawaiʻi at Mānoa**, *Front of Office Assistant* - Honolulu, HI - November 2023-May 2025
+- Assisted parents and students with questions and situations both housing and university related.
+- Responded to emails and calls within a 24-hour time frame.
+- Assisted office staff with a variety of tasks, such as filing, room checks, and in-person events like move-in and renewal.
 
-**OIA Ltd.**
-- Director & Portfolio Manager, Tortola, BVI
-  - Developed a defined contribution plan for one of the largest trust companies, providing asset management, trustee services, and participant-level reporting.
+---
 
-**Barclays Capital + Lehman Brothers**
-- Trader & Market-Maker, New York, NY
-  - Priced and traded international and commodity ETFs; managed real-time risk for $1 B+ in inventory.
-  - Built pricing and carry-arbitrage algorithms saving >$50 K per month in financing costs.
-  - Rebuilt client relationships post-Lehman acquisition, restoring institutional flows to pre-crisis levels.
+## LEADERSHIP EXPERIENCE
+**Chi Epsilon**, *Community Service Co-Chair* - Honolulu, HI - August 2025-Present
+- Planned and led various community service events for 15 to 30 Chi Epsilon members to have opportunities to give back to our community.
+- Events were coordinated with city & county members to acquire necessary supplies, waivers, and safety briefing materials.
 
-**Advent Software**
-- Marketing Manager, New York, NY & San Francisco, CA
-  - Led market validation and global launches of Advent's solutions for hedge funds and fund administrators, conducting roadshows and market research.
-  - Achieved a 100% increase in market share within the fund administrator segment in one year and solidified Advent's position as the portfolio management and partnership accounting leader in the global macro hedge fund sector.
+**Oʻahu Honey Company**, *Cashier* - Waikiki, HI - April 2021-May 2023
+- Took on additional duties to interview, hire, and train fellow cashiers for the store.
+- Standardized the training process to increase consistency of sales and employee dependability, as well as increased review during the interview and hiring process to improve the quality of employees selected.
 
-## ENTREPRENEURIAL & AGRIBUSINESS EXPERIENCE
+**Hawaiʻi Space Grant Consortium**, *Trainee* - Honolulu, HI
+- Served as Social Media Officer, Team Lead, and Co-Team Lead during various projects.
+- Created Gantt charts to improve quality of deliverables at deadlines, improved inter-team communication to increase clarity and efficiency, as well as identified and mitigated hazards to both personnel and the payload.
 
-**"Daddy's" Food Forest**
-- Farmer, Erie, PA
-  - Establishing a one-acre permaculture food forest on former pastureland using multi-story cropping; cultivating multiple varieties of fruits, berries and native pollinator flowers, trees, and grasses.
-  - Developed soil-amendment calculator based on Dr. William Albrecht's and Dan Kittredge's methods.
-  - Created biochar and earthworks systems to enhance water retention and soil carbon.
+## HONORS & AWARDS
 
-**GoFarm Hawaiʻi AgCurious Graduate**
-- Completed introduction to production agriculture and farm management.
+**Chi Epsilon Member - Civil Engineering Honors Society** - August 2024-Present
+- Was invited to join and completed the pledge process to become a member of Chi Epsilon in Fall 2024.
+ - Met the academic requirements to be eligible and demonstrated the four pillars of scholarship, character, practicality, and sociability throughout the pledge process.
 
-**Greenshoot.Org**
-- Founder & Lead Developer, Honolulu, HI & Raleigh, NC
-  - Built a disaster-recovery registry platform connecting donors and survivors post-Hurricane Irma.
-  - Completed accelerator programs.
+**NASA Student Launch Project**, *Rookie of the Year Award* - Huntsville, AL - April 2019
+- Competed in the NASA Student Launch Project as Co-Team Lead of Honolulu Community College's Payload Team in collaboration with the Rocketry Team from Windward Community College to place 9th overall and win the Rookie of the Year Award.
+- Co-Lead a joint team of 13 members to produce engineering design reports including a proposal, preliminary design review, critical design review, and a flight readiness review over the course of one academic year.
 
-## CERTIFICATIONS & ADDITIONAL SKILLS
-
-- **CFA Charterholder** (2004 – 2011)
-- **Technical:** Python, JavaScript, SQL, Visual Basic, Excel Modelling, OpenAI, Anthropic
-- **FINRA Licenses:** Series 7, 55, 63
-
-## COMMUNITY & INTERESTS
-
-- Community Emergency Response Team (CERT) Volunteer, Honolulu, HI
-- Mentor, Grand Street Settlement, New York, NY
-- Mentor & Tutor, S.F. School Volunteers, San Francisco, CA
-- Camp Mokuleia, Waialua, HI
-- **Interests:** Regenerative Organic Farming • Sailing • Surfing • Fishing • Rugby • Crypto Economics
+## SKILLS & INTERESTS
+**Technical Skills:** AutoCAD, Civil 3D, MATLAB, Python, C++, Arduino Code, Excel
+**Interests:** Sustainability • Green Infrastructure • Community Service • Hula • Painting • Crochet • Baking
